@@ -26,7 +26,7 @@ I’m a passionate Software Engineering student at FAST-NUCES who loves building
 
 ## 📂 Featured Projects
 
-### 🔹 LineLess — Real-Time Digital Token System (MERN)
+### 🔹 LineLess Real-Time Digital Token System (MERN)
 A real-time digital queue and token-management platform built using the MERN stack.  
 Customers can join queues remotely, track their turn live, and give feedback.  
 Businesses get dashboards for queue control, performance tracking, and smooth operations.  
@@ -35,23 +35,19 @@ Businesses get dashboards for queue control, performance tracking, and smooth op
 
 ---
 
-### 🔹 UML Editor Tool — Desktop Diagramming Software  
+### 🔹 UML Editor Tool Desktop Diagramming Software  
 A Java/JavaFX-based UML tool for creating class and use-case diagrams with drag-and-drop features.  
 Includes serialization for saving/loading diagrams and JUnit tests for core components.
+**GitHub:** https://github.com/HammadTalat/UML-EDITOR.git
 
 ---
 
-### 🔹 Weather Application — Multi-Interface App (Java)  
-A weather application supporting both GUI and terminal modes.  
-Uses OpenWeatherMap API, SQL + file storage, and runtime dependency inversion for flexible interfaces.
-
----
-
-### 🔹 Point of Sale (POS) System — Full Stack  
+### 🔹 Point of Sale (POS) System Full Stack  
 Developed for Chaudhary Brothers (hardware store).  
 **Frontend:** C++ & C#  
 **Backend:** Spring Boot REST APIs  
 **Database:** MS SQL Server  
+**GitHub:** https://github.com/HammadTalat/Chaudhary-Brothers-POS.git
 
 ---
 
