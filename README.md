@@ -5,7 +5,7 @@ I’m a passionate Software Engineering student at FAST-NUCES who loves building
 
 ---
 
-## 🚀 Tech Stack
+## 🧰 Tech Stack
 
 **Languages:** Java, C++, JavaScript, SQL ,Python
 **Frontend:** React.js, Redux, JavaFX  
