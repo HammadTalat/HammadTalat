@@ -38,6 +38,7 @@ Businesses get dashboards for queue control, performance tracking, and smooth op
 ### 🔹 UML Editor Tool Desktop Diagramming Software  
 A Java/JavaFX-based UML tool for creating class and use-case diagrams with drag-and-drop features.  
 Includes serialization for saving/loading diagrams and JUnit tests for core components.
+
 **GitHub:** https://github.com/HammadTalat/UML-EDITOR.git
 
 ---
