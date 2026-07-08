@@ -1,28 +1,3 @@
-# Hi, I'm Hammad Talat 👋  
-Software Engineering Student | Full-Stack Developer | Problem Solver
-
-I’m a passionate Software Engineering student at FAST-NUCES who loves building useful, real-world software. I enjoy full-stack development, backend systems, and solving challenging problems.
-
----
-
-## 🧰 Tech Stack
-
-**Languages:** Java, C++, JavaScript, SQL ,Python
-**Frontend:** React.js, Redux, JavaFX  
-**Backend:** Node.js, Express.js, Spring Boot, Django
-**Database:** MongoDB, MS SQL Server, Postgress
-**Tools:** Git, Postman, VS Code  
-
----
-
-## 🏆 Achievements
-
-- **Dean’s List – Fall 2025**  
-- **Dean’s List – Spring 2025**  
-- **Top 50 National Rank – Codeforces (Pakistan)**  
-- **Intermediate (A+ Grade)**  
-
----
 
 ## 📂 Featured Projects
 
@@ -49,17 +24,6 @@ Developed for Chaudhary Brothers (hardware store).
 **Backend:** Spring Boot REST APIs  
 **Database:** MS SQL Server  
 **GitHub:** https://github.com/HammadTalat/Chaudhary-Brothers-POS.git
-
----
-
-## 📈 What I’m Currently Learning
-
-- Deepening expertise in scalable **MERN stack** architecture  
-- **AI & Machine Learning Foundations**, including:  
-  - Data preprocessing & **data cleaning pipelines**  
-  - Model training, validation, and performance evaluation  
-  - Feature engineering & dataset handling  
-  - OCR + NLP workflows for AI-based grading systems   
 
 ---
 
